@@ -1,0 +1,27 @@
+
+.container{
+    border: 2px solid grey;
+    padding: 50px;
+    border-radius: 1%;
+    background-color: rgba(146, 134, 134,0.2);
+    margin-top: 150px;
+}
+header h1{
+    background: linear-gradient(to left,white,silver, rgb(255, 215, 0));
+    -webkit-background-clip: text; 
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline;
+    font-size: 70px;
+
+    
+    
+}
+header{
+    height: 20vh;
+    background-color: rgb(51, 55, 88);
+}
+body{
+  background-color: rgba(156, 163, 246, 0.2);
+}
+
